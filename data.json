@@ -1,17 +1,40 @@
 {
-    "chart_title": "Sample Chart Data",
+    "chart_title": "Student Study Habits",
     "data_points": [
         {
-            "label": "Item A",
-            "value": 15
+            "day": "Monday",
+            "study_hours": 3,
+            "sleep_hours": 7
         },
         {
-            "label": "Item B",
-            "value": 30
+            "day": "Tuesday",
+            "study_hours": 5,
+            "sleep_hours": 6
         },
         {
-            "label": "Item C",
-            "value": 22
+            "day": "Wednesday",
+            "study_hours": 4,
+            "sleep_hours": 8
+        },
+        {
+            "day": "Thursday",
+            "study_hours": 6,
+            "sleep_hours": 5
+        },
+        {
+            "day": "Friday",
+            "study_hours": 2,
+            "sleep_hours": 8
+        },
+        {
+            "day": "Saturday",
+            "study_hours": 1,
+            "sleep_hours": 9
+        },
+        {
+            "day": "Sunday",
+            "study_hours": 3,
+            "sleep_hours": 8
         }
     ]
 }
